@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Micro-06\Source\Repos\kingssoftware\agendamento\Agendamento\Properties\PublishProfiles\ClickOnceProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="UI\Cadastros\frmCadCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadContato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadCor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadEndereco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadEspecialidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadMecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadModelo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadAdjustUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Cadastros\frmCadVeiculo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Edited\frmEditedCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavCor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavMecanico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavServico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavVeiculos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\Navegacao\frmNavUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

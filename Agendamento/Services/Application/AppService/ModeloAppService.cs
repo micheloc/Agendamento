@@ -1,0 +1,16 @@
+﻿using Agendamento.Services.Application.AppService._Base;
+using Agendamento.Services.Application.Interfaces;
+using Agendamento.Services.Domain.Entities;
+using Agendamento.Services.Domain.Interfaces.Service;
+
+namespace Agendamento.Services.Application.AppService;
+public class ModeloAppService : AppService<Modelo>, IModeloAppService
+{
+    private readonly IModeloService _modeloService;
+
+    public ModeloAppService(IModeloService appService)
+        : base(appService)
+    {
+        _modeloService = appService;
+    }
+}

@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/Agendamento/bin
+/Agendamento/obj
+
+/.vs/Agendamento/DesignTimeBuild
+/.vs/Agendamento/FileContentIndex
+/.vs/Agendamento/v17
+/.vs/ProjectEvaluation
+
+*.vs
+
